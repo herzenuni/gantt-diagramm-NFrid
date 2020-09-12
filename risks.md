@@ -1,4 +1,4 @@
-![План разработки](Web Development Plan.png)
+![План разработки](https://github.com/herzenuni/gantt-diagramm-NFrid/blob/master/Web%20Development%20Plan.png)
 
 # Потенциальные риски
 
