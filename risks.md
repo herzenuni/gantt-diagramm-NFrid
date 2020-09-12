@@ -1,4 +1,4 @@
-<img src=“./Web Development Plan.png”>
+<img src=“Web\ Development\ Plan.png”>
 
 # Потенциальные риски
 
